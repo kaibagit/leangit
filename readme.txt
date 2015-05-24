@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 commited by dev.
 this is master
 this is fea_1  修复BUG
+V1功能
